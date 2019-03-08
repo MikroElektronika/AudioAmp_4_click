@@ -1,0 +1,4 @@
+module Click_AudioAmp_4_config
+
+include Click_AudioAmp_4_types
+end.
